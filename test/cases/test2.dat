@@ -1,0 +1,9 @@
+## The correct answer for this output is 1. If you move to the right a top speed (speed 1) you can
+## arrive at position 7 just in time to catch it, but you will not be able to catch items 9 and 10
+10
+7
+1
+3
+7 0
+10 2
+9 1

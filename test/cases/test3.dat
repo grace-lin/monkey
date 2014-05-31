@@ -1,0 +1,10 @@
+## The correct output is 3: move to position 1, wait one time step and catch the second item at time 4
+## Then, in two time steps, move to position 5, wait one time step and catch the first item at time 5
+## Finally, move to position 8 in one time step and wait until the third item drops
+10
+2
+3
+3
+5 5
+1 2
+8 10
